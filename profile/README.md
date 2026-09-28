@@ -16,4 +16,5 @@ settings, repositories, teams, permissions, and security.
 
 Users who need access to a repository should submit an access request
 with the repository name, required permission, and business reason.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ab0c88-7580-4f33-a554-a9824bb46c7c" />
 
